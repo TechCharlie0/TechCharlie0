@@ -80,8 +80,8 @@
 ## GitHub Stats
 <table>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishakandel&layout=compact" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishakandel&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishakandel&" alt="GitHub Streak Stats" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCharlie0&layout=compact" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=TechCharlie0&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TechCharlie0&" alt="GitHub Streak Stats" /></td>
   </tr>
 </table>
