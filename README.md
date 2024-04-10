@@ -67,7 +67,7 @@
     <td align="center"><a href="https://linkedin.com/in/isha-chettri-756155271/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td align="center"><a href="https://facebook.com/your_username" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a></td>
     <td align="center"><a href="https://instagram.com/your_username" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://discord.gg/your_invitation_code" target="_blank"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="Discord" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://discord.gg/your_invitation_code" target="_blank"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="Discord" height="30" width="30" /></a></td>
   </tr>
   <tr>
     <td align="center"><b>LinkedIn</b></td>
