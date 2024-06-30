@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Kandel</h1>
-<h1 align="center">A Passionate Frontend Developer</h1>
+<p align="center">A Passionate Frontend Developer</p>
 
 
 
