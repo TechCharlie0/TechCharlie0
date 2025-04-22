@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isha Kandel</h1>
 <p align="center">A Passionate Frontend Developer</p>
 
-
-
+[![Visit Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=6a11cb&style=for-the-badge&logo=internet-explorer)](https://ishakandel.com.np)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakandel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+
+
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
