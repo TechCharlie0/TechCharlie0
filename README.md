@@ -88,3 +88,6 @@
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TechCharlie0&" alt="GitHub Streak Stats" /></td>
   </tr>
 </table>
+
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechCharlie0&theme=react-dark)
+
