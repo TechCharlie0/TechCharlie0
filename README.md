@@ -89,5 +89,4 @@
   </tr>
 </table>
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=TechCharlie0&theme=react-dark)
 
