@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Kandel</h1>
-<p align="center">A Passionate Frontend Developer</p>
+<p align="center">A Passionate Full Stack Developer</p>
 
 [![Visit Website](https://img.shields.io/badge/-Visit%20Website-0073e6?style=for-the-badge)](https://ishakandel.com.np)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakandel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
