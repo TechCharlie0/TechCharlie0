@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me if you have queries**
 
 ## Languages and Tools
 ### Languages
