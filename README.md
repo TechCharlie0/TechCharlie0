@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha Kandel</h1>
+<h1 align="center">Hi 👋, I'm Er. Isha Kandel</h1>
 <p align="center">A Passionate Full Stack Developer</p>
 
 [![Visit Website](https://img.shields.io/badge/-Visit%20Website-0073e6?style=for-the-badge)](https://ishakandel.com.np)
